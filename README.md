@@ -1,2 +1,11 @@
 # market-data-analysis
-در این تحقیق به بررسی و تحلیل یک دیتای مالی که شامل ستونهای زیر است می پردازیم
+In this research, we examine and analyze a financial data.
+columns:
+index name
+Sampling date
+Reopening price
+The highest price
+the lowest price
+closed price
+Final price
+Turnover
